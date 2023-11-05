@@ -1,2 +1,3 @@
 # Shop_Management_System
 Cloth Store Management System where we can perform many actions and we can generate invoice also in effective way.
+Clothing retailers serve an important function. Invoice record systems that utilize a stack-based billing concept where bills are created on a given date and stacked for later retrieval and use in revenue calculations. Such systems enable retailers to efficiently calculate total prices and generate revenue reports. We will add new product items to the linked list data structure. When adding a product, it will be appended to the existing list. To update a product’s quantity, we will modify the quantity field for that item. We can also change the product identifier if needed.
